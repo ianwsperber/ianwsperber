@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Ian Walker-Sperber's Blog
 ---
 
